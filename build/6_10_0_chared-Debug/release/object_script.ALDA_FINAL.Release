@@ -1,0 +1,13 @@
+release/catalog.o
+release/datamanager.o
+release/favorites.o
+release/main.o
+release/message.o
+release/profile.o
+release/request.o
+release/review.o
+release/service.o
+release/subscription.o
+release/user.o
+release/qrc_qmake_resources.o
+release/moc_datamanager.o

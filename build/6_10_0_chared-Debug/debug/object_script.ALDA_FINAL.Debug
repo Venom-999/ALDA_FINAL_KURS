@@ -1,0 +1,13 @@
+debug/catalog.o
+debug/datamanager.o
+debug/favorites.o
+debug/main.o
+debug/message.o
+debug/profile.o
+debug/request.o
+debug/review.o
+debug/service.o
+debug/subscription.o
+debug/user.o
+debug/qrc_qmake_resources.o
+debug/moc_datamanager.o

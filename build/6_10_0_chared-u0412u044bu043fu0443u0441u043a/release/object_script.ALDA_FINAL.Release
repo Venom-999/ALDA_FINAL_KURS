@@ -1,0 +1,15 @@
+release/catalog.o
+release/datamanager.o
+release/favorites.o
+release/main.o
+release/message.o
+release/profile.o
+release/request.o
+release/review.o
+release/service.o
+release/subscription.o
+release/user.o
+release/main_qml.o
+release/qmlcache_loader.o
+release/qrc_build_6_10_0_chared_u0412u044bu043fu0443u0441u043a_release_qmake_resources_qmlcache.o
+release/moc_datamanager.o

@@ -1,0 +1,27 @@
+[
+    {
+        "favoriteProviderIds": [
+        ],
+        "favoriteServiceIds": [
+            "00000000-0000-0000-0000-000000000001"
+        ],
+        "favoritesId": "1ee43a3e-8413-42c2-a8b0-5b5921b8ff35",
+        "lastUpdated": "2026-01-20T06:48:05",
+        "userId": "76e648a7-f53c-4207-81c7-f1948840fabe",
+        "viewedServiceIds": [
+        ]
+    },
+    {
+        "favoriteProviderIds": [
+        ],
+        "favoriteServiceIds": [
+            "00000000-0000-0000-0000-000000000001",
+            "00000000-0000-0000-0000-000000000002"
+        ],
+        "favoritesId": "240097c3-3563-41dc-8fee-88aaac7f388f",
+        "lastUpdated": "2026-01-20T06:52:34",
+        "userId": "f1e24ed7-1f53-4982-a87f-43ba4d50d2c4",
+        "viewedServiceIds": [
+        ]
+    }
+]

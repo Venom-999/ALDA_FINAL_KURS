@@ -1,0 +1,22 @@
+[
+    {
+        "createdAt": "2026-01-20T06:47:20",
+        "email": "w.qmail",
+        "id": "76e648a7-f53c-4207-81c7-f1948840fabe",
+        "passHashHex": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "phone": "89033909889",
+        "roleIndex": 0,
+        "verificationCode": "",
+        "verified": false
+    },
+    {
+        "createdAt": "2026-01-20T06:51:21",
+        "email": "123",
+        "id": "f1e24ed7-1f53-4982-a87f-43ba4d50d2c4",
+        "passHashHex": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "phone": "123",
+        "roleIndex": 0,
+        "verificationCode": "",
+        "verified": false
+    }
+]
